@@ -1,0 +1,20 @@
+## Concept:
+
+gnome-like app in gtk4 and adwaita gui, for add and manage game shortcuts
+
+
+## Features:
+
+Adding to steam, selecting images with steamgriddb api
+Easy way to set custom images
+Easy manage and edit shortcuts 
+Simple menu like in bottles app
+Use full compability with wine, port-proton and simple linux bins
+I think good idea to add gog installer parser, to install gog games with this app
+
+
+## Some backend stuff:
+
+Use gotk for go gobject
+Use sql(or something like) to manage db
+

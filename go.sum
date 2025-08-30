@@ -1,0 +1,16 @@
+github.com/KarpelesLab/weak v0.1.1 h1:fNnlPo3aypS9tBzoEQluY13XyUfd/eWaSE/vMvo9s4g=
+github.com/KarpelesLab/weak v0.1.1/go.mod h1:pzXsWs5f2bf+fpgHayTlBE1qJpO3MpJKo5sRaLu1XNw=
+github.com/diamondburned/gotk4-adwaita v0.0.0-20250703085740-f81761ef0e0d h1:Wxbwa6Io5W3bsCBbI0pE1ozB7R5aYuzcKK07INvWjPc=
+github.com/diamondburned/gotk4-adwaita v0.0.0-20250703085740-f81761ef0e0d/go.mod h1:7qL1FmT9JvasUK2hSlX9g73ZoFde3AXFV5Ozg9kWmTQ=
+github.com/diamondburned/gotk4-adwaita/pkg v0.0.0-20250703085740-f81761ef0e0d h1:4f+Bh+9AFQiz2yzGwpt6vrsgzt0kGNkQJkYHY6xIlPg=
+github.com/diamondburned/gotk4-adwaita/pkg v0.0.0-20250703085740-f81761ef0e0d/go.mod h1:ZzYiyPe0TqsukfPHi0sK/WwKzm0wIJdSRylLnuvAZNw=
+github.com/diamondburned/gotk4/pkg v0.3.1 h1:uhkXSUPUsCyz3yujdvl7DSN8jiLS2BgNTQE95hk6ygg=
+github.com/diamondburned/gotk4/pkg v0.3.1/go.mod h1:DqeOW+MxSZFg9OO+esk4JgQk0TiUJJUBfMltKhG+ub4=
+github.com/diamondburned/gotk4/pkg v0.3.2-0.20250703063411-16654385f59a h1:dN2jYYZ71hFhoKFSn24pQdKWLZb/XDydBt8pEIkFjJo=
+github.com/diamondburned/gotk4/pkg v0.3.2-0.20250703063411-16654385f59a/go.mod h1:O9K8+PGNFGJpAu8+u5D2Sn5Wae4hxWzHB+AeZNbV/2Q=
+github.com/wakeful-cloud/vdf v0.0.0-20210218214150-0be6ec18b390 h1:qIvdFTfR/iq1g9b6WFii4FLsPp2l3CoYLg6+lzObQuA=
+github.com/wakeful-cloud/vdf v0.0.0-20210218214150-0be6ec18b390/go.mod h1:L8xQNgy5mc4bqdEPR6gB355lmx0wgKmSDZFUrspKXcc=
+go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6 h1:lGdhQUN/cnWdSH3291CUuxSEqc+AsGTiDxPP3r2J0l4=
+go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6/go.mod h1:FftLjUGFEDu5k8lt0ddY+HcrH/qU/0qk+H8j9/nTl3E=
+golang.org/x/sync v0.0.0-20210220032951-036812b2e83c h1:5KslGYwFpkhGh+Q16bwMP3cOontH8FOep7tGV86Y7SQ=
+golang.org/x/sync v0.0.0-20210220032951-036812b2e83c/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
